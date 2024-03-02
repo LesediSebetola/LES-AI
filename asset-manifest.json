@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/LesediSebetola/LES-AI/static/css/main.e02bb624.css",
+    "main.js": "/LesediSebetola/LES-AI/static/js/main.db82a594.js",
+    "static/js/453.58b72754.chunk.js": "/LesediSebetola/LES-AI/static/js/453.58b72754.chunk.js",
+    "static/media/Img1.webp": "/LesediSebetola/LES-AI/static/media/Img1.a481f98f5e89406ae93b.webp",
+    "static/media/cancel.PNG": "/LesediSebetola/LES-AI/static/media/cancel.d2019fce5fd9bae11547.PNG",
+    "static/media/IMG_8249.JPG": "/LesediSebetola/LES-AI/static/media/IMG_8249.249d38800f10c39b6c2f.JPG",
+    "static/media/menu.jpg": "/LesediSebetola/LES-AI/static/media/menu.75600a5529567c1e57d6.jpg",
+    "index.html": "/LesediSebetola/LES-AI/index.html",
+    "main.e02bb624.css.map": "/LesediSebetola/LES-AI/static/css/main.e02bb624.css.map",
+    "main.db82a594.js.map": "/LesediSebetola/LES-AI/static/js/main.db82a594.js.map",
+    "453.58b72754.chunk.js.map": "/LesediSebetola/LES-AI/static/js/453.58b72754.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e02bb624.css",
+    "static/js/main.db82a594.js"
+  ]
+}
